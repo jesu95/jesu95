@@ -39,3 +39,5 @@ This is a data-logger application on a PC based on a simple and easy-to-use grap
 <img width="300" height="250" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/datalogger.png">
 <img width="300" height="225" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/arduino.png">
 </p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesu95&show_icons=true&locale=en&layout=compact" alt="jesu95" /></p>
