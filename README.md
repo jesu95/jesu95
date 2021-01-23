@@ -6,12 +6,12 @@ I am passionate about embedded systems, highly motivated by the software develop
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/c-original.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/cplusplus-original.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/arduino.svg">
-<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/msp430.jpg">
-<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/code_composer.jpg">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/msp430.png">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/ccs.png">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/altium.png">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/mathworks.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/git.svg">
-<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/doxygen.jpeg">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/doxygen.png">
 </p>
 
 ### 📫 Connect with me:
