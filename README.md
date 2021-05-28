@@ -24,7 +24,7 @@ I am passionate about embedded systems, highly motivated by the software develop
 
 ### 🎓 Final Degree Project 
 
-Is a measuring station based on the low-power MSP430 microcontroller (MSP430FR4133). This is responsible for the collection and storage of data in real-time, resulting from the sensing of various agricultural variables. It communicates wirelessly with a base station that concentrates the information and coordinates the communication. Supports I2C, UART, 1-Wire, pulses, and analog devices.
+Measuring station based on the low-power MSP430 microcontroller (MSP430FR4133). This is responsible for the collection and storage of data in real-time, resulting from the sensing of various agricultural variables. It communicates wirelessly with a base station that concentrates the information and coordinates the communication. Supports I2C, UART, 1-Wire, pulses, and analog devices.
 
 <p>
 <img width="300" height="300" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/pcb.jpg">
