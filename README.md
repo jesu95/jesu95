@@ -5,6 +5,7 @@ I am passionate about embedded systems, highly motivated by the software develop
 <p>
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/c-original.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/cplusplus-original.svg">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/java-programming-language.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/arduino.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/msp430.png">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/ccs.png">
@@ -27,7 +28,7 @@ I am passionate about embedded systems, highly motivated by the software develop
 Measuring station based on the low-power MSP430 microcontroller (MSP430FR4133). This is responsible for the collection and storage of data in real-time, resulting from the sensing of various agricultural variables. It communicates wirelessly with a base station that concentrates the information and coordinates the communication. Supports I2C, UART, 1-Wire, pulses, and analog devices.
 
 <p>
-<img width="300" height="300" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/pcb.jpg">
+<img width="300" height="300" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/pcb1.jpg">
 <img width="300" height="300" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/app.jpg">
 </p>
 
