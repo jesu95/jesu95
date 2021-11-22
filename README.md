@@ -6,13 +6,18 @@ I am passionate about embedded systems, highly motivated by the software develop
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/c-original.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/cplusplus-original.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/java-programming-language.svg">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/python.svg">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/html.svg">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/CSS3.svg">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/javascript.svg">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/logo.svg">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/mysql.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/arduino.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/msp430.png">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/ccs.png">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/altium.png">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/mathworks.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/git.svg">
-<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/doxygen.png">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesu95&show_icons=true&locale=en&layout=compact" alt="jesu95" />
 </p>
 
