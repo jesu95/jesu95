@@ -13,6 +13,7 @@ I am passionate about embedded systems, highly motivated by the software develop
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/mathworks.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/git.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/doxygen.png">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesu95&show_icons=true&locale=en&layout=compact" alt="jesu95" />
 </p>
 
 ### 📫 Connect with me:
@@ -27,18 +28,29 @@ I am passionate about embedded systems, highly motivated by the software develop
 
 Measuring station based on the low-power MSP430 microcontroller (MSP430FR4133). This is responsible for the collection and storage of data in real-time, resulting from the sensing of various agricultural variables. It communicates wirelessly with a base station that concentrates the information and coordinates the communication. Supports I2C, UART, 1-Wire, pulses, and analog devices.
 
-<p>
-<img width="300" height="300" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/pcb1.jpg">
-<img width="300" height="300" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/app.jpg">
+<p align="center">
+<img width="200" height="200" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/pcb2.jpg">
+<img width="200" height="200" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/pcb1.jpg">
+<img width="200" height="200" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/pcb3.jpg">
+<img width="200" height="200" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/app.jpg">
+<img width="300" height="200" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/Medición de los sensores MPS2_EC5_5TE.jpg">
+<img width="300" height="200" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/Medición de los sensores MLX90614_SHT3_DS18B20.jpg"> 
 </p>
 
 ### 📻 Datalogger 
 
 This is a data-logger application on a PC based on a simple and easy-to-use graphical interface where you can store, monitor, and manage all the recorded data.
 
-<p>
+<p align="center">
 <img width="300" height="250" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/datalogger.png">
 <img width="300" height="225" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/arduino.png">
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesu95&show_icons=true&locale=en&layout=compact" alt="jesu95" /></p>
+### :memo: To Do App 
+
+ToDo web application using a React front-end with a Java Spring Boot backend.
+
+<p align="center">
+<img width="375" height="250" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/To-Do-App.jpg">
+</p>
+
