@@ -49,3 +49,12 @@ This is a data-logger application on a PC based on a simple and easy-to-use grap
 <img width="300" height="250" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/datalogger.png">
 <img width="300" height="225" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/arduino.png">
 </p>
+
+### :memo: To-Do App 
+
+ToDo web application using a React front-end with a Java Spring Boot backend.
+
+<p align="center">
+<img width="600" height="300"  src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/To-Do-App.jpg">
+</p>
+
